@@ -1,8 +1,8 @@
 payload:
   #########################################
   # Sukka's Ruleset - Reject Base
-  # Last Updated: 2024-12-16T14:40:11.998Z
-  # Size: 111004
+  # Last Updated: 2024-12-17T03:24:41.792Z
+  # Size: 111017
   # License: AGPL 3.0
   # Homepage: https://ruleset.skk.moe
   # GitHub: https://github.com/SukkaW/Surge
@@ -11094,6 +11094,7 @@ payload:
   - DOMAIN-SUFFIX,entterto.com
   - DOMAIN-SUFFIX,epitrack.com
   - DOMAIN-SUFFIX,epsaivuz.com
+  - DOMAIN-SUFFIX,epvjljye.com
   - DOMAIN-SUFFIX,eqhadccx.com
   - DOMAIN-SUFFIX,ereportz.com
   - DOMAIN-SUFFIX,erniphiq.com
@@ -11412,6 +11413,7 @@ payload:
   - DOMAIN-SUFFIX,ifdnzact.com
   - DOMAIN-SUFFIX,ignslkgs.com
   - DOMAIN-SUFFIX,igqtdvxb.com
+  - DOMAIN-SUFFIX,ihearsoh.com
   - DOMAIN-SUFFIX,ihkybtde.com
   - DOMAIN-SUFFIX,iicheewi.com
   - DOMAIN-SUFFIX,ijinshan.com
@@ -37895,6 +37897,7 @@ payload:
   - DOMAIN-SUFFIX,jcwlsofn.icu
   - DOMAIN-SUFFIX,jgntjtyf.icu
   - DOMAIN-SUFFIX,jrjtibez.icu
+  - DOMAIN-SUFFIX,juutckrt.icu
   - DOMAIN-SUFFIX,jwhjqjfl.icu
   - DOMAIN-SUFFIX,lbjekygz.icu
   - DOMAIN-SUFFIX,lfrdskwj.icu
@@ -40413,6 +40416,7 @@ payload:
   - DOMAIN-SUFFIX,xianshangzixun.net
   - DOMAIN-SUFFIX,zishezetchadsi.net
   - DOMAIN-SUFFIX,zoowhausairoun.net
+  - DOMAIN-SUFFIX,ageetsaimouphih.net
   - DOMAIN-SUFFIX,aurirdikseewhoo.net
   - DOMAIN-SUFFIX,avecmessougnauy.net
   - DOMAIN-SUFFIX,baihoagleewhaum.net
@@ -40478,6 +40482,7 @@ payload:
   - DOMAIN-SUFFIX,shudoufunguptie.net
   - DOMAIN-SUFFIX,smarttargetting.net
   - DOMAIN-SUFFIX,statsadvance-01.net
+  - DOMAIN-SUFFIX,stikroltiltoowi.net
   - DOMAIN-SUFFIX,stoagouruzostee.net
   - DOMAIN-SUFFIX,teestoagloupaza.net
   - DOMAIN-SUFFIX,thesearchagency.net
@@ -41049,6 +41054,7 @@ payload:
   - DOMAIN-SUFFIX,adsilo.pro
   - DOMAIN-SUFFIX,adsyou.pro
   - DOMAIN-SUFFIX,adtags.pro
+  - DOMAIN-SUFFIX,cedrt6.pro
   - DOMAIN-SUFFIX,click4.pro
   - DOMAIN-SUFFIX,edpl9v.pro
   - DOMAIN-SUFFIX,forads.pro
@@ -43808,6 +43814,7 @@ payload:
   - DOMAIN-SUFFIX,mvirkw.xyz
   - DOMAIN-SUFFIX,mvmqos.xyz
   - DOMAIN-SUFFIX,mvmzlg.xyz
+  - DOMAIN-SUFFIX,mvwitz.xyz
   - DOMAIN-SUFFIX,mxcmwk.xyz
   - DOMAIN-SUFFIX,myiryc.xyz
   - DOMAIN-SUFFIX,mymqcy.xyz
@@ -73425,6 +73432,7 @@ payload:
   - DOMAIN-SUFFIX,research.gartner.com
   - DOMAIN-SUFFIX,tracking.gartner.com
   - DOMAIN-SUFFIX,gdmelqact.gartner.com
+  - DOMAIN-SUFFIX,d077.gazette.com
   - DOMAIN-SUFFIX,a8cv.gb-chat.com
   - DOMAIN-SUFFIX,log.geetest.com
   - DOMAIN-SUFFIX,smetrics.genarts.com
@@ -85948,6 +85956,7 @@ payload:
   - DOMAIN-SUFFIX,br.baculatowser.com
   - DOMAIN-SUFFIX,smetric.bahamabreeze.com
   - DOMAIN-SUFFIX,sp.ballsdigroup.com
+  - DOMAIN-SUFFIX,d250.baltimoresun.com
   - DOMAIN-SUFFIX,activate.baltimoresun.com
   - DOMAIN-SUFFIX,smetrics.bancsabadell.com
   - DOMAIN-SUFFIX,newsletters.bancsabadell.com
@@ -87921,6 +87930,7 @@ payload:
   - DOMAIN-SUFFIX,ifbmqi.dental-worker.com
   - DOMAIN-SUFFIX,metrics.dentalcompare.com
   - DOMAIN-SUFFIX,track.dentalnhygene.com
+  - DOMAIN-SUFFIX,w890.denvergazette.com
   - DOMAIN-SUFFIX,marketing.destinationdc.com
   - DOMAIN-SUFFIX,vlgstb.destinationxl.com
   - DOMAIN-SUFFIX,info.dfinsolutions.com
@@ -89258,6 +89268,7 @@ payload:
   - DOMAIN-SUFFIX,ea.camping-and-co.com
   - DOMAIN-SUFFIX,creative.camsplanetlive.com
   - DOMAIN-SUFFIX,cueohf.canadian-forum.com
+  - DOMAIN-SUFFIX,d485.capitalgazette.com
   - DOMAIN-SUFFIX,activate.capitalgazette.com
   - DOMAIN-SUFFIX,marketing.capsasolutions.com
   - DOMAIN-SUFFIX,gtm.careercontessa.com
@@ -91455,6 +91466,7 @@ payload:
   - DOMAIN-SUFFIX,track.codigodotigrinho.com
   - DOMAIN-SUFFIX,sst.colemanfurniture.com
   - DOMAIN-SUFFIX,marketing.cologuardclassic.com
+  - DOMAIN-SUFFIX,co932.coloradopolitics.com
   - DOMAIN-SUFFIX,analytics.combatefreestyle.com
   - DOMAIN-SUFFIX,sanalytics.combatefreestyle.com
   - DOMAIN-SUFFIX,go.comcastspectacor.com
@@ -99188,6 +99200,7 @@ payload:
   - DOMAIN-SUFFIX,trk.appliedintelligence.live
   - DOMAIN-SUFFIX,log.cleanertoolboxonline.live
   - DOMAIN-SUFFIX,log.pdfviewerscannerstore.live
+  - DOMAIN-SUFFIX,log.documentmanagerpdfdocxlssale.live
   - DOMAIN-SUFFIX,dog.orbit.love
   - DOMAIN-SUFFIX,track.arleam.love
   - DOMAIN-SUFFIX,bovid.neural.love
