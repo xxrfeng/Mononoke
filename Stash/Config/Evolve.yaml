@@ -241,14 +241,7 @@ proxy-groups:
   # 基于地区分组
   - name: home
     type: select
-    # icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
-    # proxies:
-    #   - TW-Auto
-    #   - TW-FallBack
-    #   - TW-LoadBalance
-    filter: home
-    use:
-      - Subscribe
+    include-all: true
   - name: HongKong
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
