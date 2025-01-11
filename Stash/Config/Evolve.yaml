@@ -480,6 +480,7 @@ proxy-groups:
     lazy: true
     # 规则引用
 rules:
+  - IP-CIDR,172.31.1.0/24,home,no-resolve
   - RULE-SET,AI,AI
   - RULE-SET,YouTube,YouTube
   - RULE-SET,Netflix,NETFLIX
