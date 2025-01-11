@@ -21,7 +21,7 @@ dns:
     # 服务提供商:
 proxy-providers:
   Subscribe:
-    url: http://your-service-provider # 用你的订阅链接替换
+    url: https://substore.wenddy.top/8vXtAxRGfddmhz2nx1pS/download/RN?target=Stash # 用你的订阅链接替换
     interval: 86400
     benchmark-url: http://cp.cloudflare.com
     benchmark-timeout: 5
@@ -233,7 +233,22 @@ proxy-groups:
       - UnitedKingdom
       - AllServer
       - DIRECT
+  - name: home1
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
+    proxies:
+      - home
   # 基于地区分组
+  - name: home
+    type: select
+    # icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+    # proxies:
+    #   - TW-Auto
+    #   - TW-FallBack
+    #   - TW-LoadBalance
+    filter: home
+    use:
+      - Subscribe
   - name: HongKong
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
